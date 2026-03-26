@@ -1,0 +1,46 @@
+# API keys
+My_free_API_Key/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Model weights / checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Training outputs
+runs/
+
+# Temporary files
+tmp/
+temp/My_free_API_Key/
