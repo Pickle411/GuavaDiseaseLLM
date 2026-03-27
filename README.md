@@ -51,7 +51,7 @@ Before running the LLM module, set your Groq API key as an environment variable:
 ---
 
 ### Run UI
-`streamlit run ui/app.py`
+`python -m ui.app`
 
 ---
 
